@@ -1,2 +1,2 @@
-/data/*
-/predict/*
+/data/*.csv
+/predict/*.csv
