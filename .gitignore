@@ -1,2 +1,4 @@
 /data/*.csv
 /predict/*.csv
+/preprocess/*
+*.DS_Store
